@@ -1,0 +1,39 @@
+header {
+    background-color: black;
+    padding: 40px;
+}
+
+header p {
+    color:aliceblue;
+}
+
+.text {
+    display: flex;
+    text-align: center;
+}
+
+
+body {
+    line-height: 1.6;
+}
+
+.form {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.imgbajo {
+    display:flex;
+    text-align: center;
+
+}
+
+.imgbajo img {
+    width: 300px;
+    text-align: center;
+    display: flex;
+}
+
+section .imgbajo {
+    display: flex;
+}
